@@ -1,6 +1,12 @@
 # aulas1
 
-Meu Primeiro repositório no Git.
+Meu Primeiro repositório no Git. Um projeto de blog simples
+
+# Linguagens/Tecnologias
+
+1. JavaScript
+2. HTML
+3. CSS
 
 # Instruções
 
